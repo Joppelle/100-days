@@ -21,21 +21,34 @@
 - [Web Application Deployment: A Step-by-Step Guide using Amazon Web Services (AWS)](https://medium.com/@bilal325/web-application-deployment-a-step-by-step-guide-using-amazon-web-services-aws-a22e15c9d81e)
 
 ## Day 2
-**Setting up the environment**
-- python3 -m venv my_env
-- source my_env/bin/activate
-- pip install django
-- django-admin --version
-- django-admin startproject djangoproject
-- python manage.py migrate
 
-**Testing**
-- sudo ufw allow 8000
-- python manage.py runserver your_server_ip:8000
-- endpoints
-  - http://your_server_ip:8000
-  - http://your_server_ip:8000/admin/
-- Ctrl + C: stop the server
+**Actions**
+- Learning how to setup a django environment
+  - python3 -m venv my_env
+  - source my_env/bin/activate
+  - pip install django
+  - django-admin --version
+  - django-admin startproject djangoproject
+  - python manage.py migrate
+- Testing with django
+  - sudo ufw allow 8000
+  - python manage.py runserver your_server_ip:8000
+  - endpoints
+    - http://127.0.0.1:8000
+    - http://127.0.0.1:8000/admin/
+  - Ctrl + C: stop the server
 
-*References**
+**References**
 - [How To Install the Django Web Framework on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-22-04)
+
+## Day 3
+
+**Actions**
+ - Firing up an old AWS account
+ - Cleaning up old EC2 instances
+
+**References**
+- [Terminate Amazon EC2 instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html)
+
+**Misc Reading**
+- [Demystifying ifconfig and network interfaces in Linux](https://codewithyury.com/demystifying-ifconfig-and-network-interfaces-in-linux/)
