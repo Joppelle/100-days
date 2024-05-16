@@ -52,3 +52,14 @@
 
 **Misc Reading**
 - [Demystifying ifconfig and network interfaces in Linux](https://codewithyury.com/demystifying-ifconfig-and-network-interfaces-in-linux/)
+
+## Day 4
+
+**Actions**
+- Back to Django.
+
+**References**
+- [Writing your first Django app, part 1](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
+- [django-admin and manage.py](https://docs.djangoproject.com/en/5.0/ref/django-admin/#makemigrations)
+- [FAQ: Getting Help](https://docs.djangoproject.com/en/5.0/faq/help/)
+
