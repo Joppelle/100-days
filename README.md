@@ -62,4 +62,33 @@
 - [Writing your first Django app, part 1](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
 - [django-admin and manage.py](https://docs.djangoproject.com/en/5.0/ref/django-admin/#makemigrations)
 - [FAQ: Getting Help](https://docs.djangoproject.com/en/5.0/faq/help/)
+- [Django Project Structure: A Comprehensive Guide](https://medium.com/django-unleashed/django-project-structure-a-comprehensive-guide-4b2ddbf2b6b8)
 
+## Day 5
+
+**Actions**
+- Back to Django.
+
+**Notes**
+ - sudo apt install sqlite3
+ - sqlite3 db.sqlite3         # open sqlite database and interact with cli
+   - .tables                  # see a list of tables in sqlite db
+
+ - Django philosophy for models: Don’t repeat yourself (DRY)
+
+ - After editing a model.py need to run below:
+   - python manage.py makemigrations polls
+   - polls could be another app or site
+
+**References**
+- [Writing your first Django app, part 2](https://docs.djangoproject.com/en/5.0/intro/tutorial02/)
+- [Command Line Shell For SQLite](https://sqlite.org/cli.html)
+- [Special commands to sqlite3 (dot-commands)](https://sqlite.org/cli.html#special_commands_to_sqlite3_dot_commands_)
+
+## Day 6
+
+**Actions**
+- Back to Django: https://docs.djangoproject.com/en/5.0/intro/tutorial02/#playing-with-the-api
+- Hackerrank: https://www.hackerrank.com/dashboard
+
+**Notes**
