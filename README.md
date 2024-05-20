@@ -88,7 +88,25 @@
 ## Day 6
 
 **Actions**
-- Back to Django: https://docs.djangoproject.com/en/5.0/intro/tutorial02/#playing-with-the-api
+- Back to Django: 
+    - https://docs.djangoproject.com/en/5.0/intro/tutorial02/#playing-with-the-api
+    - https://docs.djangoproject.com/en/5.0/intro/tutorial02/#introducing-the-django-admin
 - Hackerrank: https://www.hackerrank.com/dashboard
 
 **Notes**
+- [Django Database API reference](https://docs.djangoproject.com/en/5.0/topics/db/queries/)
+- [Django Tutorial for Beginners - 9 - Database API](https://www.youtube.com/watch?v=uYTiPwEGKyQ)
+- [What is choice_set in this Django app tutorial?](https://www.youtube.com/watch?v=uYTiPwEGKyQ)
+ -[What is choice_set in this Django app tutorial?](https://stackoverflow.com/questions/2048777/what-is-choice-set-in-this-django-app-tutorial)
+
+
+## Day 7
+ Break
+
+## Day 8
+**Actions**
+- Continue with Django: https://docs.djangoproject.com/en/5.0/intro/tutorial03/
+
+**Planning**
+- What do I want to make?
+
